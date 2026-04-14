@@ -3,7 +3,8 @@ Amazon cherche à réduire l’usage du camion sur les trajets intersites tout e
 Ce projet utilise uniquement des données ouvertes L'analyser les flux potentiels et proposer les corridors les plus pertinents.
 
 
-#🎯 Objectif
+##🎯 Objectif
+
 Identifier les trajets où Amazon pourrait remplacer le transport routier par du rail ou du TGV, afin de réduire les émissions de CO₂ tout en maintenant la rapidité des livraisons.
 
 #🧩 Données utilisées
